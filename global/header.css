@@ -1,0 +1,39 @@
+.header-bg {
+    background: black;
+}
+
+
+.header-menu {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 10px 0px;
+    align-items: center;
+    max-width: 1600px;
+    margin: 0 auto;
+    
+    
+}
+
+.header-menu h1{
+    color: white;
+    font-size: 3em;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+.header-item {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 10px;
+    align-items: center;
+    max-width: 1600px;
+    margin: 0 auto;
+    
+}
+
+.header-item a {
+    padding: 10px;
+    color: white;
+    font-size: 20px;
+}

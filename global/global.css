@@ -1,0 +1,11 @@
+p, ul , li , h1 ,h2, a {
+    text-decoration: none;
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    padding: 0px;
+    margin: 0px;
+}
